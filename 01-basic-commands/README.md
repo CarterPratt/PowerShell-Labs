@@ -16,7 +16,7 @@ These Labs build the foundation for automation and troubleshooting scripting.
 
 - **Get-SystemInfo.ps1** - display basic system information
 - **List-Files.ps1** - list directory contents
-- -**Show-Help.ps1** - demonstrates how to retrieve command help documentation
+- **Show-Help.ps1** - demonstrates how to retrieve command help documentation
 
   (additional labs coming soon...)
 
