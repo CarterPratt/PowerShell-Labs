@@ -18,6 +18,7 @@ These Labs build the foundation for automation and troubleshooting scripting.
 - **List-Files.ps1** - list directory contents
 - **Show-Help.ps1** - demonstrates how to retrieve command help documentation
 - **Check-DiskSpace.ps1** - display free/used disk space and calculates totals
+- **Get-NetworkInfo.ps1** - shows hostname, IP details, and adapter information
 
   (additional labs coming soon...)
 
