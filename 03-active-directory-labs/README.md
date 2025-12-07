@@ -7,4 +7,4 @@ This section simulates basic Active Directory style tasks such as:
 - folder permission concepts
 - simulated password reset workflows
 
-  These tasks help buld understanding of identity management and IT administration processes.
+  These tasks help build understanding of identity management and IT administration processes.
